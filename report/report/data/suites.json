@@ -1,0 +1,68 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_51job",
+    "children" : [ {
+      "name" : "Test_51job",
+      "children" : [ {
+        "name" : "test_get_jobsinfo_from_51job",
+        "uid" : "2be14c74cfe190d9",
+        "parentUid" : "869420052167bdeda49e71ae93abaa2b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594696312641,
+          "stop" : 1594696332677,
+          "duration" : 20036
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "869420052167bdeda49e71ae93abaa2b"
+    } ],
+    "uid" : "6c963e2e6fba86ecf921d312c313a078"
+  }, {
+    "name" : "test_addProj_opms",
+    "children" : [ {
+      "name" : "Test_project_management",
+      "children" : [ {
+        "name" : "增加项目用例",
+        "uid" : "72f42eb159af1c78",
+        "parentUid" : "227d9ae0a0a227f2172498277978ce48",
+        "status" : "broken",
+        "time" : {
+          "start" : 1594696332707,
+          "stop" : 1594696339727,
+          "duration" : 7020
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "227d9ae0a0a227f2172498277978ce48"
+    } ],
+    "uid" : "8d9d49bb71b75a509b7af331bb794cb2"
+  }, {
+    "name" : "test_uploadfiles",
+    "children" : [ {
+      "name" : "Test_uploadfile",
+      "children" : [ {
+        "name" : "文件上传UI自动化用例",
+        "uid" : "e2c148ad2bfa6bf1",
+        "parentUid" : "2dffa7f50f815b493d0b44001de3e13f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1594696341414,
+          "stop" : 1594696348423,
+          "duration" : 7009
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2dffa7f50f815b493d0b44001de3e13f"
+    } ],
+    "uid" : "17ace079d3138b6b018d83d02cdfca9e"
+  } ]
+}

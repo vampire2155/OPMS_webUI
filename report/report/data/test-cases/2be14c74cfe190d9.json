@@ -1,0 +1,83 @@
+{
+  "uid" : "2be14c74cfe190d9",
+  "name" : "test_get_jobsinfo_from_51job",
+  "fullName" : "test_51job.Test_51job#test_get_jobsinfo_from_51job",
+  "historyId" : "eae6b09ce148d4487457f782746bb0fc",
+  "time" : {
+    "start" : 1594696312641,
+    "stop" : 1594696332677,
+    "duration" : 20036
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1594696312627,
+      "stop" : 1594696312637,
+      "duration" : 10
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "setup::fin",
+    "time" : {
+      "start" : 1594696332680,
+      "stop" : 1594696332687,
+      "duration" : 7
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_51job"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_51job"
+  }, {
+    "name" : "host",
+    "value" : "Vampire-PC"
+  }, {
+    "name" : "thread",
+    "value" : "3264-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_51job"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2be14c74cfe190d9.json",
+  "parameterValues" : [ ]
+}

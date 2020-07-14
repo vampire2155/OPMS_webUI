@@ -1,0 +1,16 @@
+[ {
+  "values" : [ "Uploadfiles" ],
+  "name" : "Stand"
+}, {
+  "values" : [ "3.8.2" ],
+  "name" : "python.Version"
+}, {
+  "values" : [ "76.0" ],
+  "name" : "Browser.Version"
+}, {
+  "values" : [ "https://tinypng.com/" ],
+  "name" : "Url"
+}, {
+  "values" : [ "Firefox" ],
+  "name" : "Browser"
+} ]

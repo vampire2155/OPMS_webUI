@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=60056): Max retries exceeded with url: /session/757ea6add0c3c5a96bb05fc73c1249f6/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003DEA910>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))",
+      "children" : [ {
+        "name" : "增加项目用例",
+        "uid" : "72f42eb159af1c78",
+        "parentUid" : "ba15fd28f556fcd2428883452a88dcef",
+        "status" : "broken",
+        "time" : {
+          "start" : 1594696332707,
+          "stop" : 1594696339727,
+          "duration" : 7020
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ba15fd28f556fcd2428883452a88dcef"
+    }, {
+      "name" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=60056): Max retries exceeded with url: /session/757ea6add0c3c5a96bb05fc73c1249f6/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005389220>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))",
+      "children" : [ {
+        "name" : "文件上传UI自动化用例",
+        "uid" : "e2c148ad2bfa6bf1",
+        "parentUid" : "988148d0ee46a3e6892434547eaaee44",
+        "status" : "broken",
+        "time" : {
+          "start" : 1594696341414,
+          "stop" : 1594696348423,
+          "duration" : 7009
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "988148d0ee46a3e6892434547eaaee44"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

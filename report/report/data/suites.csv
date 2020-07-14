@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 14 11:11:52 CST 2020","Tue Jul 14 11:12:12 CST 2020","20036","","test_51job","Test_51job","","","test_get_jobsinfo_from_51job",""
+"broken","Tue Jul 14 11:12:12 CST 2020","Tue Jul 14 11:12:19 CST 2020","7020","","test_addProj_opms","Test_project_management","","","增加项目用例",""
+"broken","Tue Jul 14 11:12:21 CST 2020","Tue Jul 14 11:12:28 CST 2020","7009","","test_uploadfiles","Test_uploadfile","","","文件上传UI自动化用例",""

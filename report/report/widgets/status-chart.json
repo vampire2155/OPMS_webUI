@@ -1,0 +1,31 @@
+[ {
+  "uid" : "2be14c74cfe190d9",
+  "name" : "test_get_jobsinfo_from_51job",
+  "time" : {
+    "start" : 1594696312641,
+    "stop" : 1594696332677,
+    "duration" : 20036
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72f42eb159af1c78",
+  "name" : "增加项目用例",
+  "time" : {
+    "start" : 1594696332707,
+    "stop" : 1594696339727,
+    "duration" : 7020
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e2c148ad2bfa6bf1",
+  "name" : "文件上传UI自动化用例",
+  "time" : {
+    "start" : 1594696341414,
+    "stop" : 1594696348423,
+    "duration" : 7009
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

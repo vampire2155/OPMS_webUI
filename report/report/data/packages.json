@@ -1,0 +1,56 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_51job",
+    "children" : [ {
+      "name" : "test_get_jobsinfo_from_51job",
+      "uid" : "2be14c74cfe190d9",
+      "parentUid" : "d3ad9486baec93b016429626f4fef855",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594696312641,
+        "stop" : 1594696332677,
+        "duration" : 20036
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d3ad9486baec93b016429626f4fef855"
+  }, {
+    "name" : "test_addProj_opms",
+    "children" : [ {
+      "name" : "增加项目用例",
+      "uid" : "72f42eb159af1c78",
+      "parentUid" : "810a1c551e9940946dddcbfb1b1a43a6",
+      "status" : "broken",
+      "time" : {
+        "start" : 1594696332707,
+        "stop" : 1594696339727,
+        "duration" : 7020
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "810a1c551e9940946dddcbfb1b1a43a6"
+  }, {
+    "name" : "test_uploadfiles",
+    "children" : [ {
+      "name" : "文件上传UI自动化用例",
+      "uid" : "e2c148ad2bfa6bf1",
+      "parentUid" : "7d05ab108af793a301a5a8a071e0f419",
+      "status" : "broken",
+      "time" : {
+        "start" : 1594696341414,
+        "stop" : 1594696348423,
+        "duration" : 7009
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7d05ab108af793a301a5a8a071e0f419"
+  } ]
+}
