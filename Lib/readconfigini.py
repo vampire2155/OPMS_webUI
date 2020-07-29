@@ -22,5 +22,6 @@ class Readconfig():
 if __name__ == '__main__':
     R = Readconfig()
     print (R.get_userinfo('username'))
+    print(R.get_userinfo('password'))
 
 

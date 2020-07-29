@@ -1,30 +1,40 @@
 [ {
-  "uid" : "2be14c74cfe190d9",
-  "name" : "test_get_jobsinfo_from_51job",
+  "uid" : "ab4bfea26fafcd94",
+  "name" : "test_checkwork",
   "time" : {
-    "start" : 1594696312641,
-    "stop" : 1594696332677,
-    "duration" : 20036
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "72f42eb159af1c78",
-  "name" : "增加项目用例",
-  "time" : {
-    "start" : 1594696332707,
-    "stop" : 1594696339727,
-    "duration" : 7020
+    "start" : 1595771772298,
+    "stop" : 1595771783218,
+    "duration" : 10920
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "e2c148ad2bfa6bf1",
-  "name" : "文件上传UI自动化用例",
+  "uid" : "79709dc655741934",
+  "name" : "新增项目用例",
   "time" : {
-    "start" : 1594696341414,
-    "stop" : 1594696348423,
-    "duration" : 7009
+    "start" : 1595771783347,
+    "stop" : 1595771794832,
+    "duration" : 11485
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1f310effaf2fc9f",
+  "name" : "搜索项目用例",
+  "time" : {
+    "start" : 1595771794995,
+    "stop" : 1595771805884,
+    "duration" : 10889
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6b6caaedf54391f6",
+  "name" : "test_search_checkwork",
+  "time" : {
+    "start" : 1595771760434,
+    "stop" : 1595771771047,
+    "duration" : 10613
   },
   "status" : "broken",
   "severity" : "normal"

@@ -1,0 +1,163 @@
+{
+  "uid" : "6190213b15121207",
+  "name" : "搜索项目用例",
+  "fullName" : "test_project_manager.Test_project_management#test_searchProjectStatus",
+  "historyId" : "cbf9a2c4cc9f8527fbd35bd051417a10",
+  "time" : {
+    "start" : 1595685378304,
+    "stop" : 1595685380792,
+    "duration" : 2488
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1595685368146,
+      "stop" : 1595685368153,
+      "duration" : 7
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤一、选择项目状态为进行",
+      "time" : {
+        "start" : 1595685379040,
+        "stop" : 1595685379465,
+        "duration" : 425
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤二、输入要搜索的项目名称",
+      "time" : {
+        "start" : 1595685379466,
+        "stop" : 1595685379798,
+        "duration" : 332
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤三、点击搜索按钮",
+      "time" : {
+        "start" : 1595685379798,
+        "stop" : 1595685380644,
+        "duration" : 846
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤四、判断搜索结果是否符合预期",
+      "time" : {
+        "start" : 1595685380644,
+        "stop" : 1595685380792,
+        "duration" : 148
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "ff9512d6a59b0a0d",
+      "name" : "log",
+      "source" : "ff9512d6a59b0a0d.txt",
+      "type" : "text/plain",
+      "size" : 199552
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "setup::fin",
+    "time" : {
+      "start" : 1595685380794,
+      "stop" : 1595685380802,
+      "duration" : 8
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "项目管理模块"
+  }, {
+    "name" : "story",
+    "value" : "搜索项目状态"
+  }, {
+    "name" : "suite",
+    "value" : "test_project_manager"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_project_management"
+  }, {
+    "name" : "host",
+    "value" : "Vampire-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12284-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_project_manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6190213b15121207.json",
+  "parameterValues" : [ ]
+}

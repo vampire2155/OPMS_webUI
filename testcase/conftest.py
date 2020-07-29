@@ -4,7 +4,12 @@
 
 #用例初始化模块   包括  用例执行前数据初始化  以及   用例执行完成以后的数据清除。
 import pytest
+import logbook
+import sys
+import os
+import time
 from Lib.operateDB import delete_projects
+from config.globalparam import log_path
 
 @pytest.fixture(scope='module',autouse=True)
 #环境初始化 、数据清除
@@ -17,3 +22,12 @@ def setup(request):
         delete_projects()
     request.addfinalizer(fin)  #函数名作为实参进行传递
 
+# @pytest.fixture(scope='module',autouse=True)
+# def modlog(request):
+#     logname = os.path.join(log_path,f"{time.strftime('%Y-%m-%d-%H-%M-S')}.log")
+#     name = request.module.__name__
+#     logger = logbook.Logger(name)
+#     logger.handlers.append(logbook.FileHandler(logname, level='DEBUG', bubble=True))
+#     logger.handlers.append(logbook.StreamHandler(sys.stderr, level='INFO', bubble=True))
+#     logger.warn("Start of logging")
+#     return logger

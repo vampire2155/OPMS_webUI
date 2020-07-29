@@ -1,37 +1,26 @@
 {
-  "total" : 3,
+  "total" : 2,
   "items" : [ {
-    "uid" : "8d9d49bb71b75a509b7af331bb794cb2",
-    "name" : "test_addProj_opms",
+    "uid" : "eb6bdb1d9e4f0273937f149a6c2e5ae8",
+    "name" : "test_checkwork_manager",
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 2,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     }
   }, {
-    "uid" : "17ace079d3138b6b018d83d02cdfca9e",
-    "name" : "test_uploadfiles",
+    "uid" : "5d950571d1f1c3c03535b1aa8318ceb3",
+    "name" : "test_project_manager",
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 2,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "6c963e2e6fba86ecf921d312c313a078",
-    "name" : "test_51job",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
+      "total" : 2
     }
   } ]
 }

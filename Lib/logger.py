@@ -26,14 +26,20 @@ class Log():
         '''
         logger.setLevel(logging.DEBUG)
         # 创建一个handler，把日志写入到文件中。
-        file_log = logging.FileHandler(filename=self.logfile_name,mode='a',encoding='utf8',delay=False)
+        file_handler = logging.FileHandler(filename=self.logfile_name,mode='a',encoding='utf8',delay=False)
+        #  创建一个handler，把日志输出到控制台上
+        console_handler = logging.StreamHandler()
         #指定日志的最低输出级别，默认为WARN级别
-        file_log.setLevel(logging.DEBUG)
+        file_handler.setLevel(logging.DEBUG)
+        console_handler.setLevel(logging.DEBUG)
         #定义日志的输出格式
         formatter = logging.Formatter('%(asctime)s-%(name)s-%(levelname)s-%(message)s')
-        file_log.setFormatter(formatter)
+        file_handler.setFormatter(formatter)
+        console_handler.setFormatter(formatter)
         #给logger（logger的作用：提供日志接口）添加 一个handler（handler的作用：将日志记录（log record）发送到合适的目的地（destination），比如文件，socket等）
-        logger.addHandler(file_log)
+
+        logger.addHandler(console_handler)
+        logger.addHandler(file_handler)
         #记录日志
         if level == 'info':
             logger.info(message)
@@ -43,9 +49,11 @@ class Log():
             logger.warning(message)
         elif level == 'error':
             logger.error(message)
-        logger.removeHandler(file_log)
+        logger.removeHandler(file_handler)
+        logger.removeHandler(console_handler)
         #关闭打开的日志文件
-        file_log.close()
+        file_handler.close()
+        console_handler.close()
 
     def debug(self,message):
         self.printlog('debug',message)
@@ -59,7 +67,8 @@ class Log():
     def error(self,message):
         self.printlog('error',message)
 
-
+# 实例化一个对象
+LogAction = Log()
 
 
 

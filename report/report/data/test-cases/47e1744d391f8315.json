@@ -1,0 +1,84 @@
+{
+  "uid" : "47e1744d391f8315",
+  "name" : "test_checkwork",
+  "fullName" : "test_checkwork_manager.Test_checkwork_management#test_checkwork",
+  "historyId" : "8ae7ff9eccb6632e6e153c87d40b1a0c",
+  "time" : {
+    "start" : 1595253353988,
+    "stop" : 1595253357276,
+    "duration" : 3288
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1595253340714,
+      "stop" : 1595253341225,
+      "duration" : 511
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "setup::fin",
+    "time" : {
+      "start" : 1595253357278,
+      "stop" : 1595253357294,
+      "duration" : 16
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "考勤管理模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_checkwork_manager"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_checkwork_management"
+  }, {
+    "name" : "host",
+    "value" : "Vampire-PC"
+  }, {
+    "name" : "thread",
+    "value" : "11000-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_checkwork_manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47e1744d391f8315.json",
+  "parameterValues" : [ ]
+}

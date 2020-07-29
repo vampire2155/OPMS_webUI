@@ -1,4 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Jul 14 11:11:52 CST 2020","Tue Jul 14 11:12:12 CST 2020","20036","","test_51job","Test_51job","","","test_get_jobsinfo_from_51job",""
-"broken","Tue Jul 14 11:12:12 CST 2020","Tue Jul 14 11:12:19 CST 2020","7020","","test_addProj_opms","Test_project_management","","","增加项目用例",""
-"broken","Tue Jul 14 11:12:21 CST 2020","Tue Jul 14 11:12:28 CST 2020","7009","","test_uploadfiles","Test_uploadfile","","","文件上传UI自动化用例",""
+"broken","Sun Jul 26 21:56:12 CST 2020","Sun Jul 26 21:56:23 CST 2020","10920","","test_checkwork_manager","Test_checkwork_management","","","test_checkwork",""
+"broken","Sun Jul 26 21:56:23 CST 2020","Sun Jul 26 21:56:34 CST 2020","11485","","test_project_manager","Test_project_management","","","新增项目用例",""
+"broken","Sun Jul 26 21:56:34 CST 2020","Sun Jul 26 21:56:45 CST 2020","10889","","test_project_manager","Test_project_management","","","搜索项目用例",""
+"broken","Sun Jul 26 21:56:00 CST 2020","Sun Jul 26 21:56:11 CST 2020","10613","","test_checkwork_manager","Test_checkwork_management","","","test_search_checkwork",""

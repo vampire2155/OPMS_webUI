@@ -1,5 +1,5 @@
 [ {
-  "values" : [ "Uploadfiles" ],
+  "values" : [ "OPMS Management System" ],
   "name" : "Stand"
 }, {
   "values" : [ "3.8.2" ],
@@ -8,7 +8,7 @@
   "values" : [ "76.0" ],
   "name" : "Browser.Version"
 }, {
-  "values" : [ "https://tinypng.com/" ],
+  "values" : [ "http://127.0.0.1:8088/" ],
   "name" : "Url"
 }, {
   "values" : [ "Firefox" ],

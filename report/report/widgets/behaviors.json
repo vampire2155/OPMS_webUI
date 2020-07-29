@@ -1,26 +1,26 @@
 {
-  "total" : 3,
+  "total" : 2,
   "items" : [ {
+    "uid" : "c0b7d29a73ef22dffb6c1aa13b5d1e83",
+    "name" : "考勤管理模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
     "uid" : "cc1466198f7aaf72191a537f93e3c43a",
     "name" : "项目管理模块",
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 2,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "73f796b81e3c33ffddac621f189a1eb5",
-    "name" : "文件上传",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
+      "total" : 2
     }
   } ]
 }

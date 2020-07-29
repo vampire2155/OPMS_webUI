@@ -2,55 +2,64 @@
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "name" : "packages",
   "children" : [ {
-    "name" : "test_51job",
+    "name" : "test_checkwork_manager",
     "children" : [ {
-      "name" : "test_get_jobsinfo_from_51job",
-      "uid" : "2be14c74cfe190d9",
-      "parentUid" : "d3ad9486baec93b016429626f4fef855",
-      "status" : "passed",
-      "time" : {
-        "start" : 1594696312641,
-        "stop" : 1594696332677,
-        "duration" : 20036
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "d3ad9486baec93b016429626f4fef855"
-  }, {
-    "name" : "test_addProj_opms",
-    "children" : [ {
-      "name" : "增加项目用例",
-      "uid" : "72f42eb159af1c78",
-      "parentUid" : "810a1c551e9940946dddcbfb1b1a43a6",
+      "name" : "test_search_checkwork",
+      "uid" : "6b6caaedf54391f6",
+      "parentUid" : "490043082c4008baa14278d0bbe7b471",
       "status" : "broken",
       "time" : {
-        "start" : 1594696332707,
-        "stop" : 1594696339727,
-        "duration" : 7020
+        "start" : 1595771760434,
+        "stop" : 1595771771047,
+        "duration" : 10613
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
-    } ],
-    "uid" : "810a1c551e9940946dddcbfb1b1a43a6"
-  }, {
-    "name" : "test_uploadfiles",
-    "children" : [ {
-      "name" : "文件上传UI自动化用例",
-      "uid" : "e2c148ad2bfa6bf1",
-      "parentUid" : "7d05ab108af793a301a5a8a071e0f419",
+    }, {
+      "name" : "test_checkwork",
+      "uid" : "ab4bfea26fafcd94",
+      "parentUid" : "490043082c4008baa14278d0bbe7b471",
       "status" : "broken",
       "time" : {
-        "start" : 1594696341414,
-        "stop" : 1594696348423,
-        "duration" : 7009
+        "start" : 1595771772298,
+        "stop" : 1595771783218,
+        "duration" : 10920
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     } ],
-    "uid" : "7d05ab108af793a301a5a8a071e0f419"
+    "uid" : "490043082c4008baa14278d0bbe7b471"
+  }, {
+    "name" : "test_project_manager",
+    "children" : [ {
+      "name" : "新增项目用例",
+      "uid" : "79709dc655741934",
+      "parentUid" : "f6689c053a73003345728a68c3f3aedf",
+      "status" : "broken",
+      "time" : {
+        "start" : 1595771783347,
+        "stop" : 1595771794832,
+        "duration" : 11485
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "搜索项目用例",
+      "uid" : "1f310effaf2fc9f",
+      "parentUid" : "f6689c053a73003345728a68c3f3aedf",
+      "status" : "broken",
+      "time" : {
+        "start" : 1595771794995,
+        "stop" : 1595771805884,
+        "duration" : 10889
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f6689c053a73003345728a68c3f3aedf"
   } ]
 }

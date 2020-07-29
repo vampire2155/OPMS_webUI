@@ -1,0 +1,57 @@
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/url {"url": "http://127.0.0.1:8088/project/manage"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/url HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61760/session/8db2a62c5c27745c08f934ae6306cf0a/element {"using": "css selector", "value": ".btn-success"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:61760 "POST /session/8db2a62c5c27745c08f934ae6306cf0a/element HTTP/1.1" 404 1033
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request

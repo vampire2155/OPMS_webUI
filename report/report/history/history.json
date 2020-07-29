@@ -1,5 +1,5 @@
 {
-  "2f12006cc737b82b49e8941f9cafede7" : {
+  "1094616c6a3ad28fcee2985a8609f287" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 1,
@@ -9,17 +9,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e2c148ad2bfa6bf1",
+      "uid" : "79709dc655741934",
       "status" : "broken",
-      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=60056): Max retries exceeded with url: /session/757ea6add0c3c5a96bb05fc73c1249f6/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005389220>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
       "time" : {
-        "start" : 1594696341414,
-        "stop" : 1594696348423,
-        "duration" : 7009
+        "start" : 1595771783347,
+        "stop" : 1595771794832,
+        "duration" : 11485
       }
     } ]
   },
-  "54e63241a4398f48d88442e979545d86" : {
+  "8ae7ff9eccb6632e6e153c87d40b1a0c" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 1,
@@ -29,32 +29,53 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "72f42eb159af1c78",
+      "uid" : "ab4bfea26fafcd94",
       "status" : "broken",
-      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=60056): Max retries exceeded with url: /session/757ea6add0c3c5a96bb05fc73c1249f6/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003DEA910>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
       "time" : {
-        "start" : 1594696332707,
-        "stop" : 1594696339727,
-        "duration" : 7020
+        "start" : 1595771772298,
+        "stop" : 1595771783218,
+        "duration" : 10920
       }
     } ]
   },
-  "eae6b09ce148d4487457f782746bb0fc" : {
+  "fcac615f26d577acd92bae35cd40dda1" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2be14c74cfe190d9",
-      "status" : "passed",
+      "uid" : "6b6caaedf54391f6",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
       "time" : {
-        "start" : 1594696312641,
-        "stop" : 1594696332677,
-        "duration" : 20036
+        "start" : 1595771760434,
+        "stop" : 1595771771047,
+        "duration" : 10613
+      }
+    } ]
+  },
+  "cbf9a2c4cc9f8527fbd35bd051417a10" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f310effaf2fc9f",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1595771794995,
+        "stop" : 1595771805884,
+        "duration" : 10889
       }
     } ]
   }
