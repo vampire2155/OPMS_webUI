@@ -1,5 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Jul 26 21:56:00 CST 2020","Sun Jul 26 21:56:11 CST 2020","10613","","test_checkwork_manager","Test_checkwork_management","","","test_search_checkwork",""
+"broken","Sun Jul 26 21:56:34 CST 2020","Sun Jul 26 21:56:45 CST 2020","10889","","test_project_manager","Test_project_management","","","搜索项目用例",""
 "broken","Sun Jul 26 21:56:12 CST 2020","Sun Jul 26 21:56:23 CST 2020","10920","","test_checkwork_manager","Test_checkwork_management","","","test_checkwork",""
 "broken","Sun Jul 26 21:56:23 CST 2020","Sun Jul 26 21:56:34 CST 2020","11485","","test_project_manager","Test_project_management","","","新增项目用例",""
-"broken","Sun Jul 26 21:56:34 CST 2020","Sun Jul 26 21:56:45 CST 2020","10889","","test_project_manager","Test_project_management","","","搜索项目用例",""
-"broken","Sun Jul 26 21:56:00 CST 2020","Sun Jul 26 21:56:11 CST 2020","10613","","test_checkwork_manager","Test_checkwork_management","","","test_search_checkwork",""

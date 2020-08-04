@@ -1,12 +1,12 @@
 {
-  "uid" : "629afefa0ea5dbba",
+  "uid" : "93d2330daf43472",
   "name" : "新增项目用例",
   "fullName" : "test_project_manager.Test_project_management#test_addproj",
   "historyId" : "1094616c6a3ad28fcee2985a8609f287",
   "time" : {
-    "start" : 1595152227514,
-    "stop" : 1595152238172,
-    "duration" : 10658
+    "start" : 1595166918193,
+    "stop" : 1595166927969,
+    "duration" : 9776
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,171 +14,171 @@
   "beforeStages" : [ {
     "name" : "setup",
     "time" : {
-      "start" : 1595152227429,
-      "stop" : 1595152227436,
-      "duration" : 7
+      "start" : 1595166918117,
+      "stop" : 1595166918163,
+      "duration" : 46
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
     "stepsCount" : 0,
-    "hasContent" : false
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
   } ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ {
       "name" : "步骤一、点击“新项目”按钮",
       "time" : {
-        "start" : 1595152228555,
-        "stop" : 1595152229525,
-        "duration" : 970
+        "start" : 1595166918966,
+        "stop" : 1595166919971,
+        "duration" : 1005
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     }, {
       "name" : "步骤二、填写项目名称",
       "time" : {
-        "start" : 1595152229525,
-        "stop" : 1595152230308,
-        "duration" : 783
+        "start" : 1595166919973,
+        "stop" : 1595166920732,
+        "duration" : 759
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     }, {
       "name" : "步骤三、填写项目别名",
       "time" : {
-        "start" : 1595152230309,
-        "stop" : 1595152230978,
-        "duration" : 669
+        "start" : 1595166920732,
+        "stop" : 1595166921392,
+        "duration" : 660
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     }, {
       "name" : "步骤四，填写开始日期",
       "time" : {
-        "start" : 1595152230978,
-        "stop" : 1595152232067,
-        "duration" : 1089
+        "start" : 1595166921392,
+        "stop" : 1595166922513,
+        "duration" : 1121
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     }, {
       "name" : "步骤五，填写结束日期",
       "time" : {
-        "start" : 1595152232067,
-        "stop" : 1595152233088,
-        "duration" : 1021
+        "start" : 1595166922514,
+        "stop" : 1595166923524,
+        "duration" : 1010
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     }, {
       "name" : "步骤六、填写项目描述",
       "time" : {
-        "start" : 1595152233248,
-        "stop" : 1595152235523,
-        "duration" : 2275
+        "start" : 1595166923718,
+        "stop" : 1595166925787,
+        "duration" : 2069
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     }, {
       "name" : "步骤七、点击提交按钮",
       "time" : {
-        "start" : 1595152235534,
-        "stop" : 1595152235880,
-        "duration" : 346
+        "start" : 1595166925802,
+        "stop" : 1595166926146,
+        "duration" : 344
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     }, {
       "name" : "步骤八、判断项目是否增加成功",
       "time" : {
-        "start" : 1595152237557,
-        "stop" : 1595152238172,
-        "duration" : 615
+        "start" : 1595166927777,
+        "stop" : 1595166927969,
+        "duration" : 192
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
     "stepsCount" : 8,
-    "hasContent" : true
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ {
     "name" : "setup::fin",
     "time" : {
-      "start" : 1595152238174,
-      "stop" : 1595152238179,
-      "duration" : 5
+      "start" : 1595166928020,
+      "stop" : 1595166928027,
+      "duration" : 7
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
     "stepsCount" : 0,
-    "hasContent" : false
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
   } ],
   "labels" : [ {
-    "name" : "feature",
-    "value" : "项目管理模块"
-  }, {
     "name" : "story",
     "value" : "新增项目"
+  }, {
+    "name" : "feature",
+    "value" : "项目管理模块"
   }, {
     "name" : "suite",
     "value" : "test_project_manager"
@@ -190,7 +190,7 @@
     "value" : "Vampire-PC"
   }, {
     "name" : "thread",
-    "value" : "8732-MainThread"
+    "value" : "6068-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -212,6 +212,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "629afefa0ea5dbba.json",
+  "source" : "93d2330daf43472.json",
   "parameterValues" : [ ]
 }

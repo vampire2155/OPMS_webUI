@@ -1,25 +1,15 @@
 [ {
-  "uid" : "ab4bfea26fafcd94",
-  "name" : "test_checkwork",
+  "uid" : "893bd7a4823a7428",
+  "name" : "test_search_checkwork",
   "time" : {
-    "start" : 1595771772298,
-    "stop" : 1595771783218,
-    "duration" : 10920
+    "start" : 1595771760434,
+    "stop" : 1595771771047,
+    "duration" : 10613
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "79709dc655741934",
-  "name" : "新增项目用例",
-  "time" : {
-    "start" : 1595771783347,
-    "stop" : 1595771794832,
-    "duration" : 11485
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "1f310effaf2fc9f",
+  "uid" : "2746577df46590ec",
   "name" : "搜索项目用例",
   "time" : {
     "start" : 1595771794995,
@@ -29,12 +19,22 @@
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "6b6caaedf54391f6",
-  "name" : "test_search_checkwork",
+  "uid" : "b10e59b0fbd3859e",
+  "name" : "test_checkwork",
   "time" : {
-    "start" : 1595771760434,
-    "stop" : 1595771771047,
-    "duration" : 10613
+    "start" : 1595771772298,
+    "stop" : 1595771783218,
+    "duration" : 10920
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6770cb012592bfc7",
+  "name" : "新增项目用例",
+  "time" : {
+    "start" : 1595771783347,
+    "stop" : 1595771794832,
+    "duration" : 11485
   },
   "status" : "broken",
   "severity" : "normal"

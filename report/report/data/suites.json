@@ -7,7 +7,7 @@
       "name" : "Test_checkwork_management",
       "children" : [ {
         "name" : "test_search_checkwork",
-        "uid" : "6b6caaedf54391f6",
+        "uid" : "893bd7a4823a7428",
         "parentUid" : "d6a2acf40b69df3848bc53d4ca725850",
         "status" : "broken",
         "time" : {
@@ -20,7 +20,7 @@
         "parameters" : [ ]
       }, {
         "name" : "test_checkwork",
-        "uid" : "ab4bfea26fafcd94",
+        "uid" : "b10e59b0fbd3859e",
         "parentUid" : "d6a2acf40b69df3848bc53d4ca725850",
         "status" : "broken",
         "time" : {
@@ -41,7 +41,7 @@
       "name" : "Test_project_management",
       "children" : [ {
         "name" : "新增项目用例",
-        "uid" : "79709dc655741934",
+        "uid" : "6770cb012592bfc7",
         "parentUid" : "05e6f8acd3433adcd930a8ec9d653a90",
         "status" : "broken",
         "time" : {
@@ -54,7 +54,7 @@
         "parameters" : [ ]
       }, {
         "name" : "搜索项目用例",
-        "uid" : "1f310effaf2fc9f",
+        "uid" : "2746577df46590ec",
         "parentUid" : "05e6f8acd3433adcd930a8ec9d653a90",
         "status" : "broken",
         "time" : {

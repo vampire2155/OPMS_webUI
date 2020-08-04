@@ -6,21 +6,8 @@
     "children" : [ {
       "name" : "11000-MainThread",
       "children" : [ {
-        "name" : "搜索项目用例",
-        "uid" : "40fab20e28fa16e2",
-        "parentUid" : "d77d56c13c7a1ab3cd8982f9ee3b6f0d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1595253389307,
-          "stop" : 1595253392837,
-          "duration" : 3530
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "test_search_checkwork",
-        "uid" : "e63645d29ffcd766",
+        "uid" : "334452e244f4a3",
         "parentUid" : "d77d56c13c7a1ab3cd8982f9ee3b6f0d",
         "status" : "broken",
         "time" : {
@@ -32,8 +19,21 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
+        "name" : "新增项目用例",
+        "uid" : "22b322b2aaaed13a",
+        "parentUid" : "d77d56c13c7a1ab3cd8982f9ee3b6f0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595253357358,
+          "stop" : 1595253389293,
+          "duration" : 31935
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "test_checkwork",
-        "uid" : "47e1744d391f8315",
+        "uid" : "e7baa58b09eec40b",
         "parentUid" : "d77d56c13c7a1ab3cd8982f9ee3b6f0d",
         "status" : "passed",
         "time" : {
@@ -45,14 +45,14 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "新增项目用例",
-        "uid" : "c4ab5d448c6eacf6",
+        "name" : "搜索项目用例",
+        "uid" : "5caf79570f502778",
         "parentUid" : "d77d56c13c7a1ab3cd8982f9ee3b6f0d",
         "status" : "passed",
         "time" : {
-          "start" : 1595253357358,
-          "stop" : 1595253389293,
-          "duration" : 31935
+          "start" : 1595253389307,
+          "stop" : 1595253392837,
+          "duration" : 3530
         },
         "flaky" : false,
         "newFailed" : false,
@@ -60,10 +60,66 @@
       } ],
       "uid" : "d77d56c13c7a1ab3cd8982f9ee3b6f0d"
     }, {
+      "name" : "7348-MainThread",
+      "children" : [ {
+        "name" : "搜索项目用例",
+        "uid" : "2746577df46590ec",
+        "parentUid" : "285193afa6862b17df2567c8a9792b52",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595771794995,
+          "stop" : 1595771805884,
+          "duration" : 10889
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增项目用例",
+        "uid" : "6770cb012592bfc7",
+        "parentUid" : "285193afa6862b17df2567c8a9792b52",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595771783347,
+          "stop" : 1595771794832,
+          "duration" : 11485
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_checkwork",
+        "uid" : "893bd7a4823a7428",
+        "parentUid" : "285193afa6862b17df2567c8a9792b52",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595771760434,
+          "stop" : 1595771771047,
+          "duration" : 10613
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_checkwork",
+        "uid" : "b10e59b0fbd3859e",
+        "parentUid" : "285193afa6862b17df2567c8a9792b52",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595771772298,
+          "stop" : 1595771783218,
+          "duration" : 10920
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "285193afa6862b17df2567c8a9792b52"
+    }, {
       "name" : "12284-MainThread",
       "children" : [ {
         "name" : "新增项目用例",
-        "uid" : "b02af522703192a1",
+        "uid" : "6e05caf22741e132",
         "parentUid" : "e08354a4582adc5d93d487e9a20a2402",
         "status" : "passed",
         "time" : {
@@ -75,21 +131,21 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "搜索项目用例",
-        "uid" : "6190213b15121207",
+        "name" : "test_search_checkwork",
+        "uid" : "5560ec55d06c2270",
         "parentUid" : "e08354a4582adc5d93d487e9a20a2402",
-        "status" : "passed",
+        "status" : "broken",
         "time" : {
-          "start" : 1595685378304,
-          "stop" : 1595685380792,
-          "duration" : 2488
+          "start" : 1595685351969,
+          "stop" : 1595685362480,
+          "duration" : 10511
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_checkwork",
-        "uid" : "16c03aff639ae61f",
+        "uid" : "f376ed923e8c0ab1",
         "parentUid" : "e08354a4582adc5d93d487e9a20a2402",
         "status" : "failed",
         "time" : {
@@ -101,14 +157,14 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "test_search_checkwork",
-        "uid" : "41727ce08b2ccedc",
+        "name" : "搜索项目用例",
+        "uid" : "a401193c09af4a26",
         "parentUid" : "e08354a4582adc5d93d487e9a20a2402",
-        "status" : "broken",
+        "status" : "passed",
         "time" : {
-          "start" : 1595685351969,
-          "stop" : 1595685362480,
-          "duration" : 10511
+          "start" : 1595685378304,
+          "stop" : 1595685380792,
+          "duration" : 2488
         },
         "flaky" : false,
         "newFailed" : false,
@@ -116,79 +172,10 @@
       } ],
       "uid" : "e08354a4582adc5d93d487e9a20a2402"
     }, {
-      "name" : "2296-MainThread",
-      "children" : [ {
-        "name" : "搜索项目用例",
-        "uid" : "17f447175229dfa",
-        "parentUid" : "d1734c2790ada4c1694c1a142c44aaf1",
-        "status" : "broken",
-        "time" : {
-          "start" : 1595426191215,
-          "stop" : 1595426201880,
-          "duration" : 10665
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "新增项目用例",
-        "uid" : "c0adb3e9ada86eb6",
-        "parentUid" : "d1734c2790ada4c1694c1a142c44aaf1",
-        "status" : "broken",
-        "time" : {
-          "start" : 1595426159823,
-          "stop" : 1595426191073,
-          "duration" : 31250
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "test_checkwork",
-        "uid" : "6ae6cd119c571d22",
-        "parentUid" : "d1734c2790ada4c1694c1a142c44aaf1",
-        "status" : "broken",
-        "time" : {
-          "start" : 1595426148805,
-          "stop" : 1595426159715,
-          "duration" : 10910
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "test_search_checkwork",
-        "uid" : "6009df08a7e4aec1",
-        "parentUid" : "d1734c2790ada4c1694c1a142c44aaf1",
-        "status" : "broken",
-        "time" : {
-          "start" : 1595426135323,
-          "stop" : 1595426147208,
-          "duration" : 11885
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "d1734c2790ada4c1694c1a142c44aaf1"
-    }, {
       "name" : "8068-MainThread",
       "children" : [ {
-        "name" : "搜索项目用例",
-        "uid" : "fca2128097f65a95",
-        "parentUid" : "aa0f287751a34446eeb5746d34781e06",
-        "status" : "broken",
-        "time" : {
-          "start" : 1595638519719,
-          "stop" : 1595638530529,
-          "duration" : 10810
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "test_checkwork",
-        "uid" : "873f7e4e91dd7080",
+        "uid" : "6fcff96a39581060",
         "parentUid" : "aa0f287751a34446eeb5746d34781e06",
         "status" : "broken",
         "time" : {
@@ -201,7 +188,7 @@
         "parameters" : [ ]
       }, {
         "name" : "新增项目用例",
-        "uid" : "570d9f162a030997",
+        "uid" : "25f23b6084d0889",
         "parentUid" : "aa0f287751a34446eeb5746d34781e06",
         "status" : "broken",
         "time" : {
@@ -214,7 +201,7 @@
         "parameters" : [ ]
       }, {
         "name" : "test_search_checkwork",
-        "uid" : "a14055173189f4ff",
+        "uid" : "9a0efb79242bf918",
         "parentUid" : "aa0f287751a34446eeb5746d34781e06",
         "status" : "broken",
         "time" : {
@@ -225,13 +212,82 @@
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
+      }, {
+        "name" : "搜索项目用例",
+        "uid" : "bfa9be00a79f923d",
+        "parentUid" : "aa0f287751a34446eeb5746d34781e06",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595638519719,
+          "stop" : 1595638530529,
+          "duration" : 10810
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
       } ],
       "uid" : "aa0f287751a34446eeb5746d34781e06"
+    }, {
+      "name" : "10396-MainThread",
+      "children" : [ {
+        "name" : "新增项目用例",
+        "uid" : "1f8ee2625ce6bf2d",
+        "parentUid" : "19a9b30b700acdbc83498f1da3bd80aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595339811430,
+          "stop" : 1595339825642,
+          "duration" : 14212
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_checkwork",
+        "uid" : "998ac97dbd1c7c3",
+        "parentUid" : "19a9b30b700acdbc83498f1da3bd80aa",
+        "status" : "failed",
+        "time" : {
+          "start" : 1595339805340,
+          "stop" : 1595339811321,
+          "duration" : 5981
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "搜索项目用例",
+        "uid" : "f5ea913036523f14",
+        "parentUid" : "19a9b30b700acdbc83498f1da3bd80aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595339825688,
+          "stop" : 1595339828354,
+          "duration" : 2666
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_checkwork",
+        "uid" : "367df25581c56306",
+        "parentUid" : "19a9b30b700acdbc83498f1da3bd80aa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595339793145,
+          "stop" : 1595339803952,
+          "duration" : 10807
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "19a9b30b700acdbc83498f1da3bd80aa"
     }, {
       "name" : "6068-MainThread",
       "children" : [ {
         "name" : "新增项目用例",
-        "uid" : "27d5f3bfa5abc198",
+        "uid" : "93d2330daf43472",
         "parentUid" : "eed902e050f777be79e007e65485bd31",
         "status" : "passed",
         "time" : {
@@ -245,178 +301,10 @@
       } ],
       "uid" : "eed902e050f777be79e007e65485bd31"
     }, {
-      "name" : "10396-MainThread",
-      "children" : [ {
-        "name" : "搜索项目用例",
-        "uid" : "d84bfbe50fe1a38e",
-        "parentUid" : "19a9b30b700acdbc83498f1da3bd80aa",
-        "status" : "passed",
-        "time" : {
-          "start" : 1595339825688,
-          "stop" : 1595339828354,
-          "duration" : 2666
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "test_checkwork",
-        "uid" : "dd604cef352985d",
-        "parentUid" : "19a9b30b700acdbc83498f1da3bd80aa",
-        "status" : "failed",
-        "time" : {
-          "start" : 1595339805340,
-          "stop" : 1595339811321,
-          "duration" : 5981
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "test_search_checkwork",
-        "uid" : "8b496e42c560911c",
-        "parentUid" : "19a9b30b700acdbc83498f1da3bd80aa",
-        "status" : "broken",
-        "time" : {
-          "start" : 1595339793145,
-          "stop" : 1595339803952,
-          "duration" : 10807
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "新增项目用例",
-        "uid" : "89036ad0df27979",
-        "parentUid" : "19a9b30b700acdbc83498f1da3bd80aa",
-        "status" : "passed",
-        "time" : {
-          "start" : 1595339811430,
-          "stop" : 1595339825642,
-          "duration" : 14212
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "19a9b30b700acdbc83498f1da3bd80aa"
-    }, {
-      "name" : "10512-MainThread",
-      "children" : [ {
-        "name" : "test_search_checkwork",
-        "uid" : "f0da61afecf02c9a",
-        "parentUid" : "27042ac898d98be8df5ae8136b51c902",
-        "status" : "broken",
-        "time" : {
-          "start" : 1595512543510,
-          "stop" : 1595512554165,
-          "duration" : 10655
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "新增项目用例",
-        "uid" : "37f89b970d0a992e",
-        "parentUid" : "27042ac898d98be8df5ae8136b51c902",
-        "status" : "passed",
-        "time" : {
-          "start" : 1595512559311,
-          "stop" : 1595512603299,
-          "duration" : 43988
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "搜索项目用例",
-        "uid" : "cceb568d1743761e",
-        "parentUid" : "27042ac898d98be8df5ae8136b51c902",
-        "status" : "passed",
-        "time" : {
-          "start" : 1595512603323,
-          "stop" : 1595512606239,
-          "duration" : 2916
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "test_checkwork",
-        "uid" : "2ad2ac21362173a3",
-        "parentUid" : "27042ac898d98be8df5ae8136b51c902",
-        "status" : "failed",
-        "time" : {
-          "start" : 1595512555064,
-          "stop" : 1595512559240,
-          "duration" : 4176
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "27042ac898d98be8df5ae8136b51c902"
-    }, {
-      "name" : "7348-MainThread",
-      "children" : [ {
-        "name" : "test_checkwork",
-        "uid" : "ab4bfea26fafcd94",
-        "parentUid" : "285193afa6862b17df2567c8a9792b52",
-        "status" : "broken",
-        "time" : {
-          "start" : 1595771772298,
-          "stop" : 1595771783218,
-          "duration" : 10920
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "搜索项目用例",
-        "uid" : "1f310effaf2fc9f",
-        "parentUid" : "285193afa6862b17df2567c8a9792b52",
-        "status" : "broken",
-        "time" : {
-          "start" : 1595771794995,
-          "stop" : 1595771805884,
-          "duration" : 10889
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "新增项目用例",
-        "uid" : "79709dc655741934",
-        "parentUid" : "285193afa6862b17df2567c8a9792b52",
-        "status" : "broken",
-        "time" : {
-          "start" : 1595771783347,
-          "stop" : 1595771794832,
-          "duration" : 11485
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "test_search_checkwork",
-        "uid" : "6b6caaedf54391f6",
-        "parentUid" : "285193afa6862b17df2567c8a9792b52",
-        "status" : "broken",
-        "time" : {
-          "start" : 1595771760434,
-          "stop" : 1595771771047,
-          "duration" : 10613
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "285193afa6862b17df2567c8a9792b52"
-    }, {
       "name" : "8732-MainThread",
       "children" : [ {
         "name" : "新增项目用例",
-        "uid" : "629afefa0ea5dbba",
+        "uid" : "d3f128a15e28b4a9",
         "parentUid" : "cc95da5b4674b3ec51b8a8f034e3ea40",
         "status" : "passed",
         "time" : {
@@ -429,6 +317,118 @@
         "parameters" : [ ]
       } ],
       "uid" : "cc95da5b4674b3ec51b8a8f034e3ea40"
+    }, {
+      "name" : "2296-MainThread",
+      "children" : [ {
+        "name" : "test_checkwork",
+        "uid" : "978db113b3801819",
+        "parentUid" : "d1734c2790ada4c1694c1a142c44aaf1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595426148805,
+          "stop" : 1595426159715,
+          "duration" : 10910
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增项目用例",
+        "uid" : "131599ec465b6960",
+        "parentUid" : "d1734c2790ada4c1694c1a142c44aaf1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595426159823,
+          "stop" : 1595426191073,
+          "duration" : 31250
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_checkwork",
+        "uid" : "80883fc93a9acedf",
+        "parentUid" : "d1734c2790ada4c1694c1a142c44aaf1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595426135323,
+          "stop" : 1595426147208,
+          "duration" : 11885
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "搜索项目用例",
+        "uid" : "a5a08f880807bc2b",
+        "parentUid" : "d1734c2790ada4c1694c1a142c44aaf1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595426191215,
+          "stop" : 1595426201880,
+          "duration" : 10665
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d1734c2790ada4c1694c1a142c44aaf1"
+    }, {
+      "name" : "10512-MainThread",
+      "children" : [ {
+        "name" : "test_search_checkwork",
+        "uid" : "bd1fb0b623e90c2c",
+        "parentUid" : "27042ac898d98be8df5ae8136b51c902",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595512543510,
+          "stop" : 1595512554165,
+          "duration" : 10655
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "搜索项目用例",
+        "uid" : "40345f99369d6d64",
+        "parentUid" : "27042ac898d98be8df5ae8136b51c902",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595512603323,
+          "stop" : 1595512606239,
+          "duration" : 2916
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_checkwork",
+        "uid" : "be7ceceaac7d379b",
+        "parentUid" : "27042ac898d98be8df5ae8136b51c902",
+        "status" : "failed",
+        "time" : {
+          "start" : 1595512555064,
+          "stop" : 1595512559240,
+          "duration" : 4176
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增项目用例",
+        "uid" : "34c23cec130e4d14",
+        "parentUid" : "27042ac898d98be8df5ae8136b51c902",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595512559311,
+          "stop" : 1595512603299,
+          "duration" : 43988
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "27042ac898d98be8df5ae8136b51c902"
     } ],
     "uid" : "a91f353942890fde43a4cd71a2738053"
   } ]

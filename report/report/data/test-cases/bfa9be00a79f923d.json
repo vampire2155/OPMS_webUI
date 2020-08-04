@@ -1,5 +1,5 @@
 {
-  "uid" : "fca2128097f65a95",
+  "uid" : "bfa9be00a79f923d",
   "name" : "搜索项目用例",
   "fullName" : "test_project_manager.Test_project_management#test_searchProjectStatus",
   "historyId" : "cbf9a2c4cc9f8527fbd35bd051417a10",
@@ -24,10 +24,10 @@
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
     "stepsCount" : 0,
-    "hasContent" : false
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
   } ],
   "testStage" : {
     "status" : "broken",
@@ -46,23 +46,23 @@
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : true,
       "stepsCount" : 0,
-      "hasContent" : true
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true
     } ],
     "attachments" : [ {
-      "uid" : "c7ce5fdfd01ab3ac",
+      "uid" : "6544b632b807b21f",
       "name" : "log",
-      "source" : "c7ce5fdfd01ab3ac.txt",
+      "source" : "6544b632b807b21f.txt",
       "type" : "text/plain",
       "size" : 9179
     } ],
     "parameters" : [ ],
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : true,
     "stepsCount" : 1,
-    "hasContent" : true
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
   },
   "afterStages" : [ {
     "name" : "setup::fin",
@@ -75,10 +75,10 @@
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
     "stepsCount" : 0,
-    "hasContent" : false
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
   } ],
   "labels" : [ {
     "name" : "story",
@@ -119,6 +119,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "fca2128097f65a95.json",
+  "source" : "bfa9be00a79f923d.json",
   "parameterValues" : [ ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "d84bfbe50fe1a38e",
+  "uid" : "a401193c09af4a26",
   "name" : "搜索项目用例",
   "fullName" : "test_project_manager.Test_project_management#test_searchProjectStatus",
   "historyId" : "cbf9a2c4cc9f8527fbd35bd051417a10",
   "time" : {
-    "start" : 1595339825688,
-    "stop" : 1595339828354,
-    "duration" : 2666
+    "start" : 1595685378304,
+    "stop" : 1595685380792,
+    "duration" : 2488
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,110 +14,110 @@
   "beforeStages" : [ {
     "name" : "setup",
     "time" : {
-      "start" : 1595339811410,
-      "stop" : 1595339811428,
-      "duration" : 18
+      "start" : 1595685368146,
+      "stop" : 1595685368153,
+      "duration" : 7
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
     "stepsCount" : 0,
-    "hasContent" : false
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
   } ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ {
       "name" : "步骤一、选择项目状态为进行",
       "time" : {
-        "start" : 1595339826398,
-        "stop" : 1595339826901,
-        "duration" : 503
+        "start" : 1595685379040,
+        "stop" : 1595685379465,
+        "duration" : 425
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     }, {
       "name" : "步骤二、输入要搜索的项目名称",
       "time" : {
-        "start" : 1595339826901,
-        "stop" : 1595339827350,
-        "duration" : 449
+        "start" : 1595685379466,
+        "stop" : 1595685379798,
+        "duration" : 332
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     }, {
       "name" : "步骤三、点击搜索按钮",
       "time" : {
-        "start" : 1595339827350,
-        "stop" : 1595339828186,
-        "duration" : 836
+        "start" : 1595685379798,
+        "stop" : 1595685380644,
+        "duration" : 846
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     }, {
       "name" : "步骤四、判断搜索结果是否符合预期",
       "time" : {
-        "start" : 1595339828187,
-        "stop" : 1595339828354,
-        "duration" : 167
+        "start" : 1595685380644,
+        "stop" : 1595685380792,
+        "duration" : 148
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     } ],
     "attachments" : [ {
-      "uid" : "aa08a9525505b9b",
+      "uid" : "848ad2a428c77d37",
       "name" : "log",
-      "source" : "aa08a9525505b9b.txt",
+      "source" : "848ad2a428c77d37.txt",
       "type" : "text/plain",
       "size" : 199552
     } ],
     "parameters" : [ ],
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
     "stepsCount" : 4,
-    "hasContent" : true
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ {
     "name" : "setup::fin",
     "time" : {
-      "start" : 1595339828357,
-      "stop" : 1595339828366,
-      "duration" : 9
+      "start" : 1595685380794,
+      "stop" : 1595685380802,
+      "duration" : 8
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
     "stepsCount" : 0,
-    "hasContent" : false
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
   } ],
   "labels" : [ {
     "name" : "feature",
@@ -136,7 +136,7 @@
     "value" : "Vampire-PC"
   }, {
     "name" : "thread",
-    "value" : "10396-MainThread"
+    "value" : "12284-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -158,6 +158,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "d84bfbe50fe1a38e.json",
+  "source" : "a401193c09af4a26.json",
   "parameterValues" : [ ]
 }
